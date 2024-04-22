@@ -1,0 +1,19 @@
+module.exports = [
+    './src/assets/img/1.png',
+    './src/assets/img/2.png',
+    './src/assets/img/3.png',
+    './src/assets/img/4.png',
+    './src/assets/img/5.png',
+    './src/assets/img/6.png',
+    './src/assets/img/7.png',
+    './src/assets/img/8.png',
+    './src/assets/img/9.png',
+    './src/assets/img/10.png',
+    './src/assets/img/11.png',
+    './src/assets/img/12.png',
+    './src/assets/img/13.png',
+    './src/assets/img/14.png',
+    './src/assets/img/15.png',
+    './src/assets/img/16.png',
+    './src/assets/img/17.png'
+  ];
